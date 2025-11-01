@@ -2,12 +2,12 @@
 # General por año 
 
 ## PRIMER AÑO
-- [Algoritmos y Estructuras de Datos I](https://github.com/mi-org/proyecto-a](https://github.com/academicArchive/AyED1))
+- [Algoritmos y Estructuras de Datos I](https://github.com/academicArchive/AyED1)
 
 ## SEGUNDO AÑO
-- [Organización del Computador](https://github.com/mi-org/proyecto-c](https://github.com/academicArchive/Lab2-OdC))
-- [Algoritmos y Estructuras de Datos II](https://github.com/mi-org/proyecto-d](https://github.com/academicArchive/AyED2))
-- [Sistemas Operativos](https://github.com/mi-org/proyecto-d](https://github.com/academicArchive/AyED2)](https://github.com/academicArchive/SistOp-Labs))
+- [Organización del Computador](https://github.com/academicArchive/Lab2-OdC)
+- [Algoritmos y Estructuras de Datos II](https://github.com/academicArchive/AyED2)
+- [Sistemas Operativos](https://github.com/academicArchive/SistOp-Labs)
 
 ## TERCER AÑO
 ### Primer cuatrimestre
